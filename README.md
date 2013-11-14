@@ -1,5 +1,6 @@
 SM_NOMGREP
 ===============
+[![Build Status](https://travis-ci.org/CrimsonTautology/nomgrep.png?branch=master)](https://travis-ci.org/CrimsonTautology/nomgrep)
 Sourcemod Plugin that provides a quick way to search through a map nomination list.
 
 INSTALLATION:
