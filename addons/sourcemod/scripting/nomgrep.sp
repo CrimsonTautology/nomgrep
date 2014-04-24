@@ -20,7 +20,7 @@ public Plugin:myinfo =
 {
 	name = "Nomination Grep",
 	author = "Billehs",
-	version = "2.1",
+	version = "2.2",
 	description = "Provides Map Nominations based on a given search key",
 	url = "https://github.com/CrimsonTautology/nomgrep"
 };
@@ -46,8 +46,6 @@ public OnPluginStart()
 
 	RegConsoleCmd("sm_nomsearch", Command_Nomgrep);
 	RegConsoleCmd("sm_nomgrep", Command_Nomgrep);
-	RegConsoleCmd("sm_Nomsearch", Command_Nomgrep);
-	RegConsoleCmd("sm_Nomgrep", Command_Nomgrep);
 }
 
 /** OnConfigsExecuted
