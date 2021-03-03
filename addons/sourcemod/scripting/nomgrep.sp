@@ -22,7 +22,7 @@ public Plugin:myinfo =
 	author = "Billehs",
 	version = "2.2",
 	description = "Provides Map Nominations based on a given search key",
-	url = "https://github.com/CrimsonTautology/nomgrep"
+	url = "https://github.com/CrimsonTautology/sm-nomgrep"
 };
 
 
